@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gpul.org/img/logo-old.svg" alt="GPUL Logo" width="250"/>
+  <img src="https://docs.gpul.org/img/logo-old.svg" alt="GPUL Logo" width="250"/>
 </div>
 
 Somos unha asociación universitaria da Coruña que promove o software libre dende 1998. Organizamos eventos, formamos comunidade e desenvolvemos proxectos abertos.
